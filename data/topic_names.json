@@ -1,0 +1,202 @@
+{
+  "16": {
+    "name": "LLM training, alignment & fine-tuning",
+    "keywords": [
+      "training",
+      "attention",
+      "fine-tuning"
+    ]
+  },
+  "10": {
+    "name": "Multimodal & vision-language models",
+    "keywords": [
+      "visual",
+      "multimodal",
+      "image"
+    ]
+  },
+  "5": {
+    "name": "Multilingual NLP & text analysis",
+    "keywords": [
+      "text",
+      "human",
+      "sentiment"
+    ]
+  },
+  "7": {
+    "name": "LLM reasoning & math",
+    "keywords": [
+      "reasoning",
+      "knowledge",
+      "mathematical"
+    ]
+  },
+  "11": {
+    "name": "Reinforcement learning",
+    "keywords": [
+      "reinforcement",
+      "policy",
+      "rl"
+    ]
+  },
+  "0": {
+    "name": "Retrieval, RAG & search",
+    "keywords": [
+      "retrieval",
+      "knowledge",
+      "rag"
+    ]
+  },
+  "4": {
+    "name": "LLM agents & code generation",
+    "keywords": [
+      "agents",
+      "agent",
+      "generation"
+    ]
+  },
+  "20": {
+    "name": "General ML: fairness & generalization",
+    "keywords": [
+      "machine",
+      "training",
+      "causal"
+    ]
+  },
+  "23": {
+    "name": "Adversarial attacks & AI security",
+    "keywords": [
+      "attacks",
+      "attack",
+      "adversarial"
+    ]
+  },
+  "2": {
+    "name": "Computer vision: detection & segmentation",
+    "keywords": [
+      "images",
+      "image",
+      "object"
+    ]
+  },
+  "6": {
+    "name": "AI ethics, society & human-AI interaction",
+    "keywords": [
+      "ai",
+      "agents",
+      "systems"
+    ]
+  },
+  "18": {
+    "name": "Neural network theory",
+    "keywords": [
+      "neural",
+      "networks",
+      "neural networks"
+    ]
+  },
+  "1": {
+    "name": "Optimization & learning theory",
+    "keywords": [
+      "algorithm",
+      "optimization",
+      "regret"
+    ]
+  },
+  "9": {
+    "name": "Efficient inference & AI hardware",
+    "keywords": [
+      "quantization",
+      "inference",
+      "memory"
+    ]
+  },
+  "12": {
+    "name": "AI for science (molecules, physics)",
+    "keywords": [
+      "neural",
+      "molecular",
+      "design"
+    ]
+  },
+  "14": {
+    "name": "Graph neural networks",
+    "keywords": [
+      "graph",
+      "graphs",
+      "graph neural"
+    ]
+  },
+  "21": {
+    "name": "Applied ML on signals & sensors",
+    "keywords": [
+      "eeg",
+      "detection",
+      "signals"
+    ]
+  },
+  "17": {
+    "name": "Robotics & planning",
+    "keywords": [
+      "robot",
+      "action",
+      "planning"
+    ]
+  },
+  "22": {
+    "name": "Time-series forecasting",
+    "keywords": [
+      "forecasting",
+      "time series",
+      "series"
+    ]
+  },
+  "13": {
+    "name": "Speech & audio",
+    "keywords": [
+      "speech",
+      "audio",
+      "asr"
+    ]
+  },
+  "15": {
+    "name": "Medical imaging",
+    "keywords": [
+      "segmentation",
+      "medical",
+      "images"
+    ]
+  },
+  "8": {
+    "name": "Clinical & healthcare AI",
+    "keywords": [
+      "clinical",
+      "medical",
+      "health"
+    ]
+  },
+  "19": {
+    "name": "Diffusion & generative models",
+    "keywords": [
+      "diffusion",
+      "generative",
+      "sampling"
+    ]
+  },
+  "3": {
+    "name": "Federated learning & privacy",
+    "keywords": [
+      "federated",
+      "privacy",
+      "fl"
+    ]
+  },
+  "24": {
+    "name": "Recommender systems",
+    "keywords": [
+      "recommendation",
+      "user",
+      "preference"
+    ]
+  }
+}

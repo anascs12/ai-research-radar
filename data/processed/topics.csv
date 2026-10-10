@@ -1,0 +1,26 @@
+topic,name,keywords,papers
+16,"LLM training, alignment & fine-tuning","training, attention, fine-tuning, tokens, context, memory, knowledge, translation",767
+10,Multimodal & vision-language models,"visual, multimodal, image, video, vision-language, mllms, reasoning, images",698
+5,Multilingual NLP & text analysis,"text, human, sentiment, social, evaluation, analysis, english, dataset",672
+7,LLM reasoning & math,"reasoning, knowledge, mathematical, capabilities, questions, accuracy, cot, answer",619
+11,Reinforcement learning,"reinforcement, policy, rl, reward, optimization, policies, algorithm, agents",607
+0,"Retrieval, RAG & search","retrieval, knowledge, rag, generation, information, semantic, retrieval-augmented, query",568
+4,LLM agents & code generation,"agents, agent, generation, execution, software, evaluation, tool, benchmark",563
+20,General ML: fairness & generalization,"machine, training, causal, samples, datasets, domain, classification, distribution",544
+23,Adversarial attacks & AI security,"attacks, attack, adversarial, security, safety, detection, backdoor, defense",536
+2,Computer vision: detection & segmentation,"images, image, object, detection, segmentation, vision, dataset, feature",523
+6,"AI ethics, society & human-AI interaction","ai, agents, systems, human, research, intelligence, agent, social",498
+18,Neural network theory,"neural, networks, neural networks, deep, network, quantum, training, neural network",478
+1,Optimization & learning theory,"algorithm, optimization, regret, bounds, bound, stochastic, optimal, algorithms",462
+9,Efficient inference & AI hardware,"quantization, inference, memory, cache, kv, gpu, latency, hardware",454
+12,"AI for science (molecules, physics)","neural, molecular, design, physics-informed, optimization, equations, physical, discovery",452
+14,Graph neural networks,"graph, graphs, graph neural, networks, node, gnns, neural, nodes",451
+21,Applied ML on signals & sensors,"eeg, detection, signals, classification, monitoring, feature, machine, features",415
+17,Robotics & planning,"robot, action, planning, manipulation, navigation, robotic, policy, trajectory",405
+22,Time-series forecasting,"forecasting, time series, series, time, prediction, temporal, series forecasting, traffic",399
+13,Speech & audio,"speech, audio, asr, recognition, speaker, music, speech recognition, acoustic",377
+15,Medical imaging,"segmentation, medical, images, image, imaging, clinical, deep, classification",359
+8,Clinical & healthcare AI,"clinical, medical, health, patient, healthcare, mental, ai, mental health",344
+19,Diffusion & generative models,"diffusion, generative, sampling, latent, image, denoising, generation, posterior",332
+3,Federated learning & privacy,"federated, privacy, fl, clients, client, communication, local, training",285
+24,Recommender systems,"recommendation, user, preference, preferences, recommender, users, systems, recommender systems",252
